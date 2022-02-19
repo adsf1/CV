@@ -1,26 +1,26 @@
 {
-    "id": "5FD454CF",
-    "path": "~/R/CV/CV1/latex.Rmd",
-    "project_path": "CV1/latex.Rmd",
+    "id": "AC4B0452",
+    "path": "~/R/CV/CV1/CV1.Rmd",
+    "project_path": "CV1/CV1.Rmd",
     "type": "r_markdown",
-    "hash": "1036649456",
+    "hash": "3875284890",
     "contents": "",
     "dirty": false,
-    "created": 1631617319711.0,
+    "created": 1631710631319.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,25",
-        "scrollLine": "8"
+        "cursorPosition": "65,1",
+        "scrollLine": "35"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631617536,
+    "lastKnownWriteTime": 1645184090,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631617536876,
+    "last_content_update": 1645184090243,
     "read_only": false,
     "read_only_alternatives": []
 }
